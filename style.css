@@ -43,7 +43,8 @@ html, body {
     width: 57%;
     margin-left: 11px;
     padding: 5px;
-    background-color: #fff; }
+    background-color: #fff;
+    height: 235px; }
     .calendar__right-pane .header {
       padding: 20px 20px 8px;
       text-align: center; }
